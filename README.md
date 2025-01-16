@@ -2,7 +2,7 @@
 Kevin Truong
 
 # Date Created
-May 2024, last updated January 2024
+Last updated January 15, 2025
 
 # Program Description
 A simple web based To-Do-List that includes simple but aesthetic design features, and the ability to save the To-Do-List for the next session after closing the page.

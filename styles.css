@@ -9,13 +9,13 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #8fb4ff, #aae78c);
+    background: linear-gradient(135deg, #66748f, #191d41);
     padding: 10px;
 }
 
 .todo-list {
     width: 100%;
-    max-width: 30%;
+    max-width: 60%;
     background: #ffffff;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
@@ -23,7 +23,7 @@
 }
 
 .todo-list h2 {
-    color:#002765;
+    color: black;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
@@ -38,7 +38,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #edeef0;
+    background: #e2e2e2;
     border-radius: 30px;
     padding-left: 20px;
     margin-bottom: 25px;
@@ -57,7 +57,7 @@ button {
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5945;
+    background: #397f88;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
